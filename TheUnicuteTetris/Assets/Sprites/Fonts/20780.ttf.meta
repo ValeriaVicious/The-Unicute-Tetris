@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7abffb0f928cac74b9693dcfa8c3d3b5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cute Notes [rus by aLiNcE]
+  fontNames:
+  - Cute Notes [rus by aLiNcE]
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
